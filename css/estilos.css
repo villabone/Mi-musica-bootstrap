@@ -1,0 +1,36 @@
+body {
+  background: #670E44;
+}
+.logo-redes {
+  background: rgba(34, 22, 50, 0.33);
+}
+.logo {
+  width: 15%;
+  border-radius: 10px;
+}
+.redes-sociales {
+  float: right;
+  margin-top: 50px;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+.main {
+  background-color: white;
+}
+.post {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #999;
+}
+.post .post-title a {
+  color: #333;
+}
+.post .thumb {
+  margin-right: 10px;
+  width: 40%;
+}
+.post .thumb img {
+  width: 100%;
+}
