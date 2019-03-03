@@ -34,3 +34,20 @@ body {
 .post .thumb img {
   width: 100%;
 }
+.lupa {
+  width: 20px;
+  border-radius: 5px;
+}
+footer {
+  background-color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .redes-sociales {
+    float: none;
+    text-align: center;
+  }
+  .post .thumb {
+    width: 100%;
+  }
+}
